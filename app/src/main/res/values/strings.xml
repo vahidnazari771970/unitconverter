@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">unit converter</string>
+
+    <string-array name="units">
+        <item>centimeter</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>inch</item>
+    </string-array>
+</resources>
